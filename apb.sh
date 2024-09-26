@@ -9,9 +9,9 @@ run_scaling_script() {
 run_scaling_script
 
 # Define the workspace number (choose a number that is not in use)
-WORKSPACE_NUMBER=1
+WORKSPACE_NUMBER=5
 
-# kill compositor
+# kill picom
 pkill picom
 
 # Switch to a new workspace
@@ -40,8 +40,5 @@ done
 
 echo "APB Reloaded has closed."
 
-# run compositor
-picom -f 
-
-# restore resolution
-xrandr --output DP-2 --mode 1920x1080 --rate 240 &
+# Run the scaling script again after the game closes
+run_scaling_script
