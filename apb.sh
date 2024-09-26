@@ -9,7 +9,10 @@ run_scaling_script() {
 run_scaling_script
 
 # Define the workspace number (choose a number that is not in use)
-WORKSPACE_NUMBER=10
+WORKSPACE_NUMBER=1
+
+# kill compositor
+pkill picom
 
 # Switch to a new workspace
 i3-msg workspace $WORKSPACE_NUMBER
@@ -36,6 +39,9 @@ while pgrep -f "$GAME_PROCESS" > /dev/null; do
 done
 
 echo "APB Reloaded has closed."
+
+# run compositor
+picom -f 
 
 # Run the scaling script again after the game closes
 run_scaling_script
