@@ -43,5 +43,5 @@ echo "APB Reloaded has closed."
 # run compositor
 picom -f 
 
-# Run the scaling script again after the game closes
-run_scaling_script
+# restore resolution
+xrandr --output DP-2 --mode 1920x1080 --rate 240 &
