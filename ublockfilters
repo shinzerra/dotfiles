@@ -2,6 +2,32 @@
 www.twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
 twitch.tv##+js(twitch-videoad)
 www.twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
+www.twitch.tv##.disclosure-card.kLjaOI.Layout-sc-1xcs6mc-0
+www.twitch.tv##.bzuOqI.CoreText-sc-1txzju1-0
+www.twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.top-bar.iXkPaN.Layout-sc-1xcs6mc-0
+www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(8)
+www.twitch.tv##.jHGpDy.Layout-sc-1xcs6mc-0
+www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(6)
+www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(5)
+www.twitch.tv##.chat-line__status.Layout-sc-1xcs6mc-0
+www.twitch.tv##.chat-line__message.xxjeD.Layout-sc-1xcs6mc-0
+www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kbdfeJ.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.jbwlnY.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-combo-input__button-icon--large.tw-combo-input__button-icon.haFUVr.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.eVlwEG.Layout-sc-1xcs6mc-0 > .tw-title.bzDGwQ.AAWwv.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+www.twitch.tv##.josRc.Layout-sc-1xcs6mc-0 > .tw-title.jYWWLJ.sghpq.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+www.twitch.tv##.cMoVyv.Layout-sc-1xcs6mc-0
+www.twitch.tv##.josRc.Layout-sc-1xcs6mc-0
+||d3aqoihi2n8ty8.cloudfront.net/power-ups/message-effect-background.png$image
+www.twitch.tv##.tw-interactable.ihcuhU.btwkkG.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+www.twitch.tv##.jYLXmc.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.seventv-mod-logs-button.seventv-tw-button > button
+www.twitch.tv##.extensions-dock__layout.bnEyHA.Layout-sc-1xcs6mc-0 > div
+www.twitch.tv##.zzTJm.click-handler.InjectLayout-sc-1i43xsx-0
 
 ! twitter
 x.com##.r-bnwqim.r-3pj75a.r-1mmae3n.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
@@ -30,6 +56,12 @@ www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-sc
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##.centered.efyt-control-bar
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer > .yt-spec-button-view-model > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
+www.youtube.com##yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 
 ! instagram
 www.instagram.com##.xvbhtw8.x1j7kr1c.x169t7cy.xod5an3.x11i5rnm.xdj266r.xdt5ytf.x78zum5
@@ -92,4 +124,32 @@ www.google.com##.CbazZd
 www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(3)
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(2)
+www.google.com##.X6JNf
+www.google.com###tools_DskTZ9PFEvq2hbIPgq2k8Qk_1
+www.google.com###rso > div.MjjYud > .cUnQKe > .Wt5Tfe
+www.google.com###bres
+www.google.com##.jUja0e.EyBRub
+www.google.com##.TBC9ub.yG4QQe
+www.google.com##.NFQFxe.wDYxhc.yp1CPe
+www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(4)
+www.google.com##.wHYlTd.CwbYXd.S8ee5
+||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
+www.google.com##.domRootLightboxed
+||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
+www.google.com##.lJ9FBc.FPdoLc > center
+www.google.com##.dRYYxd.fM33ce
+www.google.com##.uU7dJb
+www.google.com##.AghGtd.KxwPGc > a.pHiOh
+www.google.com##.ssOUyb.KxwPGc > .pHiOh
+www.google.com##.aajZCb > .lJ9FBc > center
+www.google.com##.TrMVnc.f6F9Be
+www.google.com###tools_zZ8TZ83qI9W5hbIPsO7uyQ4_1
+www.google.com##.Lu57id
+
+! chatgpt
+chatgpt.com##.min-h-4 > div
+chatgpt.com##.text-token-text-primary.btn-secondary.relative.btn
+chatgpt.com##.flex.p-1.rounded-xl.justify-start.items-center > .items-center.flex > .flex > span > .hover\:bg-token-main-surface-secondary.text-token-text-secondary.rounded-lg > .justify-center.items-center.w-\[30px\].h-\[30px\].flex
+chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
+
 
