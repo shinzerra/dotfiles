@@ -1,0 +1,13 @@
+@-moz-document url-prefix("http://"), url-prefix("https://") {
+/* Applies to all websites */
+    * {
+        font-family: 'CPMono_v07', monospace !important;
+    }
+}
+
+@-moz-document domain("soundcloud.com") {
+/* Exclude SoundCloud by overriding the font back to default */
+    * {
+        font-family: initial !important;
+    }
+}
