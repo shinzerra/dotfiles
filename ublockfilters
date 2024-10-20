@@ -1,33 +1,32 @@
+! shinzerra ublock filters 20/10/2024
+
 ! twitch
-www.twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
+twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
 twitch.tv##+js(twitch-videoad)
-www.twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
-www.twitch.tv##.disclosure-card.kLjaOI.Layout-sc-1xcs6mc-0
-www.twitch.tv##.bzuOqI.CoreText-sc-1txzju1-0
-www.twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.top-bar.iXkPaN.Layout-sc-1xcs6mc-0
-www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(8)
-www.twitch.tv##.jHGpDy.Layout-sc-1xcs6mc-0
-www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(6)
-www.twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(5)
-www.twitch.tv##.chat-line__status.Layout-sc-1xcs6mc-0
-www.twitch.tv##.chat-line__message.xxjeD.Layout-sc-1xcs6mc-0
-www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
-www.twitch.tv##.kbdfeJ.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.jbwlnY.Layout-sc-1xcs6mc-0
-www.twitch.tv##.tw-combo-input__button-icon--large.tw-combo-input__button-icon.haFUVr.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.eVlwEG.Layout-sc-1xcs6mc-0 > .tw-title.bzDGwQ.AAWwv.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
-www.twitch.tv##.josRc.Layout-sc-1xcs6mc-0 > .tw-title.jYWWLJ.sghpq.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
-www.twitch.tv##.cMoVyv.Layout-sc-1xcs6mc-0
-www.twitch.tv##.josRc.Layout-sc-1xcs6mc-0
-||d3aqoihi2n8ty8.cloudfront.net/power-ups/message-effect-background.png$image
-www.twitch.tv##.tw-interactable.ihcuhU.btwkkG.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
-www.twitch.tv##.jYLXmc.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##.seventv-mod-logs-button.seventv-tw-button > button
-www.twitch.tv##.extensions-dock__layout.bnEyHA.Layout-sc-1xcs6mc-0 > div
-www.twitch.tv##.zzTJm.click-handler.InjectLayout-sc-1i43xsx-0
+twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
+twitch.tv##.disclosure-card.kLjaOI.Layout-sc-1xcs6mc-0
+twitch.tv##.bzuOqI.CoreText-sc-1txzju1-0
+twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.top-bar.iXkPaN.Layout-sc-1xcs6mc-0
+twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(8)
+twitch.tv##.jHGpDy.Layout-sc-1xcs6mc-0
+twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(6)
+twitch.tv##div.jNrYjU.Layout-sc-1xcs6mc-0:nth-of-type(5)
+twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
+twitch.tv##.kbdfeJ.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.jbwlnY.Layout-sc-1xcs6mc-0
+twitch.tv##.tw-combo-input__button-icon--large.tw-combo-input__button-icon.haFUVr.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.eVlwEG.Layout-sc-1xcs6mc-0 > .tw-title.bzDGwQ.AAWwv.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+twitch.tv##.josRc.Layout-sc-1xcs6mc-0 > .tw-title.jYWWLJ.sghpq.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+twitch.tv##.cMoVyv.Layout-sc-1xcs6mc-0
+twitch.tv##.josRc.Layout-sc-1xcs6mc-0
+twitch.tv##.tw-interactable.ihcuhU.btwkkG.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+twitch.tv##.jYLXmc.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+twitch.tv##.seventv-mod-logs-button.seventv-tw-button > button
+twitch.tv##.extensions-dock__layout.bnEyHA.Layout-sc-1xcs6mc-0 > div
+twitch.tv##.zzTJm.click-handler.InjectLayout-sc-1i43xsx-0
 
 ! twitter
 x.com##.r-bnwqim.r-3pj75a.r-1mmae3n.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
@@ -47,34 +46,40 @@ x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.c
 x.com##.r-1knelpx.r-xyw6el.css-175oi2r > .r-16dba41.r-rjixqe.r-a023e6.r-q4m81j.r-1qd0xha.r-qvutc0.r-bcqeeo.css-146c3p1 > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
 
 ! youtube
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
-www.youtube.com###copyright
-www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-www.youtube.com##.centered.efyt-control-bar
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
-www.youtube.com###sponsor-button
-www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer > .yt-spec-button-view-model > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
-www.youtube.com##yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
-www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+youtube.com###guide-links-primary
+youtube.com###guide-links-secondary
+youtube.com###copyright
+! youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope (breaks sorting videos by date and popularity on channels)
+youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+youtube.com##.centered.efyt-control-bar
+youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+youtube.com###sponsor-button
+youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer > .yt-spec-button-view-model > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
+youtube.com##yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+youtube.com##.ytd-masthead.style-scope > yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
+youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
+youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
 
 ! instagram
-www.instagram.com##.xvbhtw8.x1j7kr1c.x169t7cy.xod5an3.x11i5rnm.xdj266r.xdt5ytf.x78zum5
-www.instagram.com##._ab8b
-www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xseo6mj.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
-www.instagram.com##.x1azxncr > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
+instagram.com##.xvbhtw8.x1j7kr1c.x169t7cy.xod5an3.x11i5rnm.xdj266r.xdt5ytf.x78zum5
+instagram.com##._ab8b
+instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xseo6mj.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+instagram.com##.x1azxncr > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
 
 ! tiktok
-www.tiktok.com##.e4a681b0.css-labfmt-DivUserContainer
-www.tiktok.com##.el3hfgg0.css-1eo184-DivFooterContainer
-www.tiktok.com##.ejkrawn0.css-glvoiv-DivPromotionContainer
-www.tiktok.com##.er1vbsz1.css-dch9ro-ALink-StyledTmpLink.e14l9ebt5
-www.tiktok.com##li:nth-of-type(2)
+tiktok.com##.e4a681b0.css-labfmt-DivUserContainer
+tiktok.com##.el3hfgg0.css-1eo184-DivFooterContainer
+tiktok.com##.ejkrawn0.css-glvoiv-DivPromotionContainer
+tiktok.com##.er1vbsz1.css-dch9ro-ALink-StyledTmpLink.e14l9ebt5
+tiktok.com##li:nth-of-type(2)
 
 ! soundcloud
 soundcloud.com##.primary.l-inner-fullwidth.m-get_heard.sc-p-2x.sc-text-body.sc-type-medium.banner
@@ -103,9 +108,9 @@ mail.google.com##.zo
 navigator-lxa.mail.com##a.navigator__item:nth-of-type(9)
 navigator-lxa.mail.com##a.navigator__item:nth-of-type(8)
 navigator-lxa.mail.com##.actions-menu__primary.navigator__areas
-www.mail.com##.content-wrapper > div
-www.mail.com###footerNav
-www.mail.com##.nav-list
+mail.com##.content-wrapper > div
+mail.com###footerNav
+mail.com##.nav-list
 
 ! outlook
 outlook.live.com##.root-312.ms-Button--commandBar.WxYUF.ms-Button > .flexContainer-158.ms-Button-flexContainer
@@ -119,32 +124,33 @@ outlook.live.com##.OooOp > .GssDD > .z0duZ > .VdboX
 outlook.live.com###\31 1000 > .flexContainer-158.ms-Button-flexContainer
 
 ! google
-www.google.com##.hVyTl
-www.google.com##.CbazZd
-www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(3)
-www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
-www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(2)
-www.google.com##.X6JNf
-www.google.com###tools_DskTZ9PFEvq2hbIPgq2k8Qk_1
-www.google.com###rso > div.MjjYud > .cUnQKe > .Wt5Tfe
-www.google.com###bres
-www.google.com##.jUja0e.EyBRub
-www.google.com##.TBC9ub.yG4QQe
-www.google.com##.NFQFxe.wDYxhc.yp1CPe
-www.google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(4)
-www.google.com##.wHYlTd.CwbYXd.S8ee5
-||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
-www.google.com##.domRootLightboxed
-||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
-www.google.com##.lJ9FBc.FPdoLc > center
-www.google.com##.dRYYxd.fM33ce
-www.google.com##.uU7dJb
-www.google.com##.AghGtd.KxwPGc > a.pHiOh
-www.google.com##.ssOUyb.KxwPGc > .pHiOh
-www.google.com##.aajZCb > .lJ9FBc > center
-www.google.com##.TrMVnc.f6F9Be
-www.google.com###tools_zZ8TZ83qI9W5hbIPsO7uyQ4_1
-www.google.com##.Lu57id
+google.com##.hVyTl
+google.com##.CbazZd
+google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(3)
+google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(2)
+google.com##.X6JNf
+google.com###tools_DskTZ9PFEvq2hbIPgq2k8Qk_1
+google.com###rso > div.MjjYud > .cUnQKe > .Wt5Tfe
+google.com###bres
+google.com##.jUja0e.EyBRub
+google.com##.TBC9ub.yG4QQe
+google.com##.NFQFxe.wDYxhc.yp1CPe
+google.com##div.cLjAic.p7kDMc.j8lBAb.TzHB6b:nth-of-type(4)
+google.com##.wHYlTd.CwbYXd.S8ee5
+||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fgoogle.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
+google.com##.domRootLightboxed
+||ogs.google.com/u/0/widget/callout/sid?prid=19031987&pgid=19031986&puid=7050dc14507a2e62&eom=1&dc=1&origin=https%3A%2F%2Fgoogle.com&cn=callout&pid=1&spid=538&hl=en&dm=$subdocument
+google.com##.lJ9FBc.FPdoLc > center
+google.com##.dRYYxd.fM33ce
+google.com##.uU7dJb
+google.com##.AghGtd.KxwPGc > a.pHiOh
+google.com##.ssOUyb.KxwPGc > .pHiOh
+google.com##.aajZCb > .lJ9FBc > center
+google.com##.TrMVnc.f6F9Be
+google.com###tools_zZ8TZ83qI9W5hbIPsO7uyQ4_1
+google.com##.Lu57id
+google.com##.g-blk.JnwWd.wF4fFd.g > div > .xKf9F.KFFQ0c
 
 ! chatgpt
 chatgpt.com##.min-h-4 > div
