@@ -1,4 +1,4 @@
-! shinzerra ublock filters 20/10/2024
+! shinzerra ublock filters 21/10/2024
 
 ! twitch
 twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
@@ -67,6 +67,7 @@ youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-de
 youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
 youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
 
 ! instagram
 instagram.com##.xvbhtw8.x1j7kr1c.x169t7cy.xod5an3.x11i5rnm.xdj266r.xdt5ytf.x78zum5
@@ -157,5 +158,3 @@ chatgpt.com##.min-h-4 > div
 chatgpt.com##.text-token-text-primary.btn-secondary.relative.btn
 chatgpt.com##.flex.p-1.rounded-xl.justify-start.items-center > .items-center.flex > .flex > span > .hover\:bg-token-main-surface-secondary.text-token-text-secondary.rounded-lg > .justify-center.items-center.w-\[30px\].h-\[30px\].flex
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
-
-
