@@ -11,3 +11,10 @@
         font-family: initial !important;
     }
 }
+
+@-moz-document url-prefix("https://steamcommunity.com/") {
+/* Exclude Steam by overriding the font back to default */
+    * {
+        font-family: initial !important;
+    }
+}
