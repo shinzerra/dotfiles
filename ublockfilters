@@ -1,9 +1,9 @@
-! shinzerra ublock filters 21/10/2024
+! shinzerra ublock filters 26/10/2024
 
 ! twitch
 twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
 twitch.tv##+js(twitch-videoad)
-twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+!twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0 (removes twitch prime icon at top, results in floating red notifcation symbol that is unremovable)
 twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
 twitch.tv##.disclosure-card.kLjaOI.Layout-sc-1xcs6mc-0
 twitch.tv##.bzuOqI.CoreText-sc-1txzju1-0
@@ -44,6 +44,9 @@ x.com##.r-4wgw6l.r-1777fci.r-16y2uox.r-6koalj.r-1loqt21.r-1pz39u2.r-1awozwy.css-
 x.com##.r-4wgw6l.r-1777fci.r-16y2uox.r-6koalj.r-1loqt21.r-1pz39u2.r-1awozwy.css-175oi2r > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-64el8z.r-19yznuf.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##.r-1knelpx.r-xyw6el.css-175oi2r > .r-16dba41.r-rjixqe.r-a023e6.r-q4m81j.r-1qd0xha.r-qvutc0.r-bcqeeo.css-146c3p1 > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
+x.com##.r-kemksi.css-175oi2r > .r-1udh08x.r-1adg3ll.css-175oi2r
+x.com##.r-1ny4l3l.r-1adg3ll.css-175oi2r > .css-175oi2r > .r-kemksi.css-175oi2r
+x.com##button.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-1qi8awa.r-2yi16.r-1wron08.r-6gpygo.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r:nth-of-type(2)
 
 ! youtube
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
@@ -152,6 +155,7 @@ google.com##.TrMVnc.f6F9Be
 google.com###tools_zZ8TZ83qI9W5hbIPsO7uyQ4_1
 google.com##.Lu57id
 google.com##.g-blk.JnwWd.wF4fFd.g > div > .xKf9F.KFFQ0c
+google.com##.TPKH4e.O4T6Pe
 
 ! chatgpt
 chatgpt.com##.min-h-4 > div
