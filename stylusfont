@@ -1,12 +1,14 @@
-/* Applies to all websites */
-* {
-    font-family: 'CPMono_v07', monospace !important;
-    font-weight: 400 !important;  /* Adjust this if your font needs a heavier weight */
-    -webkit-font-smoothing: antialiased !important;
-    text-rendering: optimizeLegibility !important;
-}
+/* Applies custom font styling to all text but excludes common icon classes */
 
-/* Optional: Increase font weight for bold elements */
-h1, h2, h3, h4, h5, h6, strong, b {
-    font-weight: 600 !important;  /* or any suitable weight */
-}
+
+    *:not([class*="icon"]):not([class*="fa"]):not([class*="material-icons"]) {
+        font-family: 'CPMono_v07', monospace !important;
+        font-weight: 400 !important; /* Adjust this if your font needs a heavier weight */
+        -webkit-font-smoothing: antialiased !important;
+        text-rendering: optimizeLegibility !important;
+    }
+
+    /* Optional: Increase font weight for bold elements */
+    h1, h2, h3, h4, h5, h6, strong, b {
+        font-weight: 600 !important; /* or any suitable weight */
+    }
