@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# Find all connected monitors
+monitor="$(xrandr | awk '/ connected/ && /[[:digit:]]x[[:digit:]].*+/{print $1}' | dmenu -i -p "Monitor:")"
+if [ -n "$monitor" ]; then
+    # Find all available resolutions
+    resolution="$(xrandr -q | awk -v disp="$monitor" '$1 == disp {getline; while ($0 ~ /^[[:blank:]]/) {gsub(/^[[:blank:]]+/, ""); print $1; getline}}' | dmenu -i -p "Resolution:")"
+    if [ -n "$resolution" ]; then
+        xrandr --output $monitor --scale-from $resolution
+        notify-send "🖥 XRandR Scaler" "Set $resolution on $monitor."
+    else
+        notify-send "🖥 XRandR Scaler" "No resolution for $monitor selected."
+    fi
+else
+    notify-send "🖥 XRandR Scaler" "No monitor selected."
+fi
