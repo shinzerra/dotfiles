@@ -1,4 +1,4 @@
-! shinzerra ublock filters 26/10/2024
+! shinzerra ublock filters 5/1/25
 
 ! twitch
 twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
@@ -28,7 +28,7 @@ twitch.tv##.seventv-mod-logs-button.seventv-tw-button > button
 twitch.tv##.extensions-dock__layout.bnEyHA.Layout-sc-1xcs6mc-0 > div
 twitch.tv##.zzTJm.click-handler.InjectLayout-sc-1i43xsx-0
 twitch.tv##.jjqZYs.Layout-sc-1xcs6mc-0
-twitch.tv##.community-highlight.jxaBAK.Layout-sc-1xcs6mc-0
+!twitch.tv##.community-highlight.jxaBAK.Layout-sc-1xcs6mc-0 (breaks pinned message and chat polls)
 twitch.tv##.community-highlight-stack__backlog-card.hooeLW.Layout-sc-1xcs6mc-0
 twitch.tv##.highlight__collapsed.highlight.IygAo.Layout-sc-1xcs6mc-0
 
@@ -169,3 +169,4 @@ chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border
 
 ! faceit
 www.faceit.com##.dZleWN.MaintenanceModeStatusMessageBar__Wrapper-sc-ef5c460f-0
+
