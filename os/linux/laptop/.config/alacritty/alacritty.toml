@@ -1,0 +1,43 @@
+[window]
+decorations = "full"
+dynamic_title = true
+opacity = 1
+
+[font]
+normal = { family = "Monospace", style = "Regular" }
+size = 10.0
+
+[colors.primary]
+background = "0x141414"
+foreground = "0xFFFFFF"
+
+[colors.normal]
+black   = "0x0E0D0D"
+blue    = "0x507C7A"
+cyan    = "0x507C7A"
+green   = "0x507C7A"
+magenta = "0x507C7A"
+red     = "0x507C7A"
+white   = "0xFFFFFF"
+yellow  = "0x507C7A"
+
+[colors.bright]
+black   = "0x141414"
+blue    = "0x507C7A"
+cyan    = "0x507C7A"
+green   = "0x507C7A"
+magenta = "0x507C7A"
+red     = "0x507C7A"
+white   = "0xEEF7FD"
+yellow  = "0x507C7A"
+
+[colors.selection]
+background = "0x507C7A"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[terminal.shell]
+args = ["--login"]
+program = "/bin/bash"
