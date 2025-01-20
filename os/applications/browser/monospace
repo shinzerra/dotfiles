@@ -1,0 +1,14 @@
+/* applies monospace to all elements */
+
+
+    *:not([class*="icon"]):not([class*="fa"]):not([class*="material-icons"]) {
+        font-family: 'monospace', monospace !important;
+        font-weight: 400 !important; /* Adjust this if your font needs a heavier weight */
+        -webkit-font-smoothing: antialiased !important;
+        text-rendering: optimizeLegibility !important;
+    }
+
+    /* optional: increase font weight for bold elements */
+    h1, h2, h3, h4, h5, h6, strong, b {
+        font-weight: 600 !important; /* or any suitable weight */
+    }
