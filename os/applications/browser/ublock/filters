@@ -1,5 +1,10 @@
 !! shinfiltersraped11111111111111
 
+!! subscribe to these filters
+!! https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock-mining.txt&title=Fuck%20Fuckadblock%3A%20Mining
+!! https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock
+
+
 ! twitch
 twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
 twitch.tv##+js(twitch-videoad)
@@ -175,5 +180,4 @@ chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border
 
 ! faceit
 www.faceit.com##.dZleWN.MaintenanceModeStatusMessageBar__Wrapper-sc-ef5c460f-0
-
 
