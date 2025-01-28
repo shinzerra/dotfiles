@@ -1,7 +1,7 @@
 [window]
 decorations = "full"
 dynamic_title = true
-opacity = 1
+opacity = 0.9
 
 [font]
 normal = { family = "Monospace", style = "Regular" }
@@ -12,24 +12,24 @@ background = "0x141414"
 foreground = "0xFFFFFF"
 
 [colors.normal]
-black   = "0x0E0D0D"
-blue    = "0x507C7A"
+black   = "0x2E4053"
+blue    = "0x89CFF0"
 cyan    = "0x507C7A"
-green   = "0x507C7A"
-magenta = "0x507C7A"
-red     = "0x507C7A"
+green   = "0x89CFF0"
+magenta = "0x89CFF0"
+red     = "0x2471A3"
 white   = "0xFFFFFF"
-yellow  = "0x507C7A"
+yellow  = "0x3498DB"
 
 [colors.bright]
 black   = "0x141414"
-blue    = "0x507C7A"
+blue    = "0x89CFF0"
 cyan    = "0x507C7A"
-green   = "0x507C7A"
+green   = "0x89CFF0"
 magenta = "0x507C7A"
-red     = "0x507C7A"
+red     = "0x2471A3"
 white   = "0xEEF7FD"
-yellow  = "0x507C7A"
+yellow  = "0x3498db"
 
 [colors.selection]
 background = "0x507C7A"
@@ -41,3 +41,4 @@ multiplier = 3
 [terminal.shell]
 args = ["--login"]
 program = "/bin/bash"
+
