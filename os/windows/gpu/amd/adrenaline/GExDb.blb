@@ -1,0 +1,47 @@
+{
+    "": {
+        "Profiles": [
+            {
+                "GPUS": [
+                    {
+                        "AutoGraphicsFeatures": [
+                        ],
+                        "GPUBDF": 11520
+                    }
+                ],
+                "ProfileID": 3,
+                "ProfileName": "Default"
+            },
+            {
+                "GPUS": [
+                    {
+                        "AutoGraphicsFeatures": [
+                        ],
+                        "GPUBDF": 11520,
+                        "GraphicsFeatures": [
+                            {
+                                "FeatureID": 13,
+                                "FeatureValue": "2"
+                            },
+                            {
+                                "FeatureID": 14,
+                                "FeatureValue": "1"
+                            },
+                            {
+                                "FeatureID": 8,
+                                "FeatureValue": "2"
+                            },
+                            {
+                                "FeatureID": 10,
+                                "FeatureValue": "0"
+                            }
+                        ]
+                    }
+                ],
+                "ProfileID": 4,
+                "ProfileName": "Custom"
+            }
+        ]
+    },
+    "ReleaseVersion": "24.20.33.01"
+}
