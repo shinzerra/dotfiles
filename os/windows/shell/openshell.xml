@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.4.195">
+	<MenuStyle value="Classic1"/>
+	<Documents value="Hide"/>
+	<ControlPanel value="Hide"/>
+	<RecentPrograms value="None"/>
+	<StartScreenShortcut value="0"/>
+	<CheckWinUpdates value="0"/>
+	<SearchBox value="Normal"/>
+	<GlassOverride value="1"/>
+	<GlassColor value="0"/>
+	<SkinC1 value="Metro"/>
+	<SkinVariationC1 value=""/>
+	<SkinOptionsC1>
+		<Line>CAPTION=0</Line>
+		<Line>USER_IMAGE=0</Line>
+		<Line>USER_NAME=0</Line>
+		<Line>CENTER_NAME=0</Line>
+		<Line>SMALL_ICONS=1</Line>
+		<Line>LARGE_FONT=0</Line>
+		<Line>ICON_FRAMES=0</Line>
+		<Line>OPAQUE=0</Line>
+	</SkinOptionsC1>
+	<SkipMetro value="1"/>
+</Settings>
