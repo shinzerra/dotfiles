@@ -1,8 +1,3 @@
-# 2025-02-01 20:08:10 by RouterOS 7.16.2
-# software id = VJTQ-QD6F
-#
-# model = RB5009UPr+S+
-# serial number = HGF09H14F6T
 /interface bridge
 add admin-mac=D4:01:C3:A2:3E:1B auto-mac=no comment=defconf name=bridge
 /interface list
