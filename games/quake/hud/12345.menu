@@ -1,0 +1,36 @@
+#include "ui/menudef.h"
+
+  /* --- Health indicator --- */
+
+menuDef {
+	name "healthIndicator"
+	fullScreen MENU_FALSE
+	visible MENU_TRUE
+	rect 296 434 72 25
+    ownerdrawflag 0
+	
+	itemDef {
+		name "healthIndicatorIcon" 
+		rect 0 0 0 0 
+		visible 1
+		decoration
+		style 2	
+		backcolor 1 1 1 0 
+		background "ui/assets/hud/health.tga"
+	}
+	
+	itemDef {
+		name "healthIndicatorCounter"
+		rect 0 0 104 36 
+		visible 1
+		textalign 0
+		decoration
+		textstyle 3 
+		forecolor 1 1 1 1 
+		textscale 0.6
+		ownerdraw CG_PLAYER_HEALTH
+		addColorRange -999 101 1 0 0 1 
+		addColorRange 102 180 1 1 1 1 
+	}
+}
+
