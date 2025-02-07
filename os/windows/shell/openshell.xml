@@ -1,12 +1,24 @@
 <?xml version="1.0"?>
 <Settings component="StartMenu" version="4.4.195">
 	<MenuStyle value="Classic1"/>
+	<Computer value="Hide"/>
 	<Documents value="Hide"/>
 	<ControlPanel value="Hide"/>
+	<LogOff value="0"/>
+	<Undock value="0"/>
+	<Search value="0"/>
+	<ShowAppsMenu value="0"/>
+	<Help value="0"/>
+	<Run value="0"/>
 	<RecentPrograms value="None"/>
+	<RemoteShutdown value="0"/>
 	<StartScreenShortcut value="0"/>
+	<HighlightNew value="0"/>
+	<HighlightNewApps value="0"/>
 	<CheckWinUpdates value="0"/>
+	<BoldSettings value="0"/>
 	<SearchBox value="Normal"/>
+	<SearchPrograms value="1"/>
 	<GlassOverride value="1"/>
 	<GlassColor value="0"/>
 	<SkinC1 value="Metro"/>
@@ -22,4 +34,20 @@
 		<Line>OPAQUE=0</Line>
 	</SkinOptionsC1>
 	<SkipMetro value="1"/>
+	<MenuItems1>
+		<Line>Items=ShutdownItem,RestartItem,SearchBoxItem</Line>
+		<Line>ShutdownItem.Command=shutdown</Line>
+		<Line>ShutdownItem.Label=$Menu.Shutdown</Line>
+		<Line>ShutdownItem.Tip=$Menu.ShutdownTip</Line>
+		<Line>ShutdownItem.Icon=, 1002</Line>
+		<Line>RestartItem.Command=restart</Line>
+		<Line>RestartItem.Label=$Menu.Restart</Line>
+		<Line>RestartItem.Tip=$Menu.RestartTip</Line>
+		<Line>RestartItem.Icon=, 1002</Line>
+		<Line>SearchBoxItem.Command=search_box</Line>
+		<Line>SearchBoxItem.Label=$Menu.SearchBox</Line>
+		<Line>SearchBoxItem.Icon=none</Line>
+		<Line>SearchBoxItem.Settings=OPEN_UP|TRACK_RECENT</Line>
+	</MenuItems1>
+	<DisablePinExt value="1"/>
 </Settings>
